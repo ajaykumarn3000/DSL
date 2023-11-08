@@ -1,7 +1,4 @@
 //4. Write a menu driven C program to implement Queue using linked list - Implement Enqueue and dequeue
-//5. Write a menu driven C program to implement linked list and perform following operations- Creation of linked list, adding node at the begining, deletion from the front
-//6. Write a menu driven C program to implement linked list and perform following operations- Creation of linked list,adding in between(after a given node or after given position), deletion at the end
-//7. Write a menu driven C program to implement linked list and perform following operations- Creation of linked list, reversing a linked list, searching a node in the list
 
 #include <stdio.h>
 #include <malloc.h>
